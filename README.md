@@ -1,5 +1,5 @@
 # Demo
 
 hello everyone!!
-it's just a demonstration 
+It is just a demonstration. 
 ## Thakyou for visiting.
